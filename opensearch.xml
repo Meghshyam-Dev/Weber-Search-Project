@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Weber</ShortName>
+  <Description>Search engine for older style webpages, lightweight and based on a subject of interest. Building a web more reminiscent of the early internet.</Description>
+  <Tags>web internet cyber interest subject</Tags>
+  <Contact>@wibyweb</Contact>
+  <Url type="text/html" template="https://wiby.me/?q={searchTerms}"/>
+  <LongName>Weber Web Search</LongName>
+  <Image height="16" width="16" type="image/x-icon">https://wiby.me/favicon.ico</Image>
+  <Query role="request" searchTerms="cats" />
+  <Language>en-us</Language>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://wiby.me</moz:SearchForm>
+</OpenSearchDescription>
